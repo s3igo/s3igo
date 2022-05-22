@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s3igo&theme=solarized_dark
+
+https://github-readme-stats.vercel.app/api?username=s3igo&count_private=true&show_icons=true&theme=solarized_dark
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=s3igo&layout=compact&theme=solarized_dark
+
