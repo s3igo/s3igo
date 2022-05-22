@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=s3igo&count_private=true&show_icons=true&theme=solarized-dark">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3igo&count-private=true&layout=compact&theme=solarized-dark">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3igo&count-private=true&layout=compact&theme=solarized-dark"> -->
